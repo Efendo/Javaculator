@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: lsid.app.Javaculator.HelloApplication
+Class-Path: /src/main/java/lsid/app/Javaculator/
+
